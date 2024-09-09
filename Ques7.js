@@ -1,12 +1,7 @@
 
-// Array 
-// 1. Linear Collection 
-// 2. Create the Using [] ;
-// 3. Array are immutable
-
 // Method 
 
-let arr = [1, 2, 3, 4, 5] ; 
+let arr = [1, 2, 3, 4, 5];
 
 // add the end
 arr.push(5);
